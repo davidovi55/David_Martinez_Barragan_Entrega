@@ -15,7 +15,7 @@ El material completo asociado al Trabajo Fin de Máster se encuentra disponible 
 
 Acceder a la sección **Releases** del repositorio y descargar el archivo `David_Martinez_Barragan.zip`.
 
-El archivo incluye el código, notebooks y demás recursos necesarios para la consulta del proyecto.
+El archivo incluye la memoria del proyecto, el vídeo, anexos etc...
 
 ## Aplicación web
 
