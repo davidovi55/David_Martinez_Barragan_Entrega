@@ -24,3 +24,6 @@ https://liver-risk-tfm.vercel.app
 ## Repositorio principal del proyecto
 
 https://github.com/davidovi55/TFM_Liver_Disease_Risk
+
+
+**Nota importante:** La memoria contiene los anexos y explicaciones fuera de las 20 hojas pedidas
